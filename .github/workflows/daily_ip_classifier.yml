@@ -15,7 +15,6 @@ jobs:
       # 步骤 1: 检出你的仓库代码
       - name: ⬇️ Checkout repository
         uses: actions/checkout@v4
-        # 必须带上 token，以便后续的自动提交步骤可以推送修改
         with:
           token: ${{ secrets.GITHUB_TOKEN }} 
 
@@ -25,10 +24,9 @@ jobs:
         with:
           python-version: '3.10'
 
-      # 步骤 3: 下载最新的 all.txt 文件
+      # 步骤 3: 下载最新的 all.txt 文件 (文件会下载到运行环境中，但不会提交到仓库)
       - name: 📥 Download all.txt
         run: |
-          # 这是 BTN-Collected-Rules/combine/all.txt 文件的 raw 链接
           curl -o all.txt https://raw.githubusercontent.com/PBH-BTN/BTN-Collected-Rules/main/combine/all.txt
 
       # 步骤 4: 运行 Python 脚本进行分类和提取
@@ -39,10 +37,12 @@ jobs:
       - name: ⬆️ Commit and Push Results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # 提交信息
           commit_message: "Automatic: Update classified IP lists"
-          # 仅提交生成的四个结果文件
-          file_pattern: "*.txt"
-          # 提交作者信息 (使用 GitHub Actions 默认 Bot)
+          # 【关键修改】明确指定要提交的文件，从而排除 all.txt
+          file_pattern: |
+            ipv4_addresses_only.txt
+            ipv4_cidr_only.txt
+            ipv6_addresses_only.txt
+            ipv6_cidr_only.txt
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
