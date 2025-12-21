@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-21 13:30:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-21 15:30:16 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -17,7 +17,7 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 485.59% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 49.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 14.21.128.241
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 1941.59% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 35.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
+# [Sparkle3 过量下载在线分析]  过量下载比率: 471.90% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 35.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
 14.149.68.137
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 416.01% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 248.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
@@ -122,6 +122,9 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 2090.24% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 38.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 58.16.123.22
 # overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 805.40% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 36.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
+58.19.30.187
+# overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 473.37% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 178.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 7
 58.20.29.151
 # overdownload-ips.txt
@@ -214,6 +217,9 @@
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1066.82% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 907.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 114.92.166.65
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 426.78% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 15.5 GiB, BTN 网络从此 Peer 接收的流量: 310.8 MiB, 跨种计算数量: 3
+114.236.32.222
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 343.57% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 97.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 3
 114.243.111.140
@@ -804,7 +810,7 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830$ ClientName: -UT1830$)H.....@.e.L
 111.254.195.33
 # random-identity.txt
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830H ClientName: -UT1830H+..4.I.H...v
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830x ClientName: -UT1830x+..4.I.H...v
 111.255.198.48
 # random-identity.txt
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830b ClientName: -UT1830b+..4.I.H...v
@@ -843,7 +849,7 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830@ ClientName: -UT1830@...Cr..F..=a
 114.36.44.187
 # random-identity.txt
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830. ClientName: -UT1830.......uB.P..
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830h ClientName: -UT1830h......uB.P..
 114.40.172.162
 # random-identity.txt
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830g ClientName: -UT1830g......uB.P..
@@ -1404,9 +1410,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 199.4 MiB, BTN网络从此Peer获取流量: 0 B
 150.129.75.144
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.5 MiB, BTN网络从此Peer获取流量: 0 B
-152.53.211.167
-# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 107.2 MiB, BTN网络从此Peer获取流量: 0 B
 153.125.129.37
 # untrusted-ips.txt
@@ -1621,8 +1624,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.7 GiB, BTN网络从此Peer获取流量: 0 B
 240e:39d:23:9140:265e:beff:fe2d:78da
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 211.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3a5:2030:610::1
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 436.5 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3ba:30c7:a690:e248:d8ff:fe20:18ea
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 34.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3bb:32b9:ac10::1
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 155.0 MiB, BTN网络从此Peer获取流量: 0 B
 2605:6400:20:153:3ea3:105:8201:16a0
@@ -3572,7 +3581,6 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ZYytsAh6 ClientName: ZYytsAh6WUQmYIdMkL7C
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: zN2TnNee ClientName: zN2TnNeegJRV8X0v5WX6
 # [Sparkle3 不受信任投票] 封禁计数: 15, 不信任票数: 13, 合并记录数量: 2, BTN网络发送到此Peer流量: 2.4 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 996.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 952.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.4 GiB, BTN网络从此Peer获取流量: 0 B
 110.52.135.0/24
@@ -3695,7 +3703,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 44-9bb5- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e1-8130- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 8d-a6a8- ClientName: Gopeed dev
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 5e-9b29- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 7e-91dd- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 63-a93e- ClientName: 63-a93e-c4f3392f8a38
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: a0-a878- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: cc-b29a- ClientName: Gopeed dev
@@ -3746,7 +3754,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: aa-a695- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 2e-86aa- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 65-b711- ClientName: Gopeed dev
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 0a-bf1a- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 58-aeb5-832269b069dc ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: c2-846b- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 4e-9407- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: af-a49c- ClientName: Gopeed dev
@@ -3813,6 +3821,7 @@
 # random-identity.txt
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 25-9cea- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 81-b26c- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 33-a0a0- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e2-b850- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ea-ac84- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f5-8bd3- ClientName: Gopeed dev
@@ -3924,7 +3933,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d1-9b72- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 93-8e21- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 99-949a- ClientName: 99-949a-1f956a22fa2b
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 2a-8066- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e9-b807- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: a9-9ec8- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: dd-a1e2- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 19-9c35-31b4d8c7a558 ClientName: Gopeed dev
@@ -3945,6 +3954,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: cf-8003- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 96-afb4- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e8-bc91- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f2-a9fb- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f7-9c03- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 1d-81bd- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ea-8072- ClientName: Gopeed dev
@@ -3961,6 +3971,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d2-b2f6- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 78-acbe- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: dc-92a9- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 2c-a065- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: cc-868e- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 22-8a59- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 0f-885b- ClientName: Gopeed dev
@@ -3978,6 +3989,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: c6-a74d-74dc25d54667 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 77-b942-5cd08c9e2224 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 48-b01b- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 55-b9d5- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: cd-9639- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ce-8dee- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 46-90c2- ClientName: Gopeed dev
@@ -4001,6 +4013,7 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 81-b779- ClientName: 81-b779-52198dd4c2dd
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f9-baf0-28bba36f846d ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 83-a8d6- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d5-851c- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f0-9a4f- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f5-8929- ClientName: f5-8929-490bac10423d
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 77-84b7-03e5f117f277 ClientName: Gopeed dev (n/a)
@@ -4087,6 +4100,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e8-b5e4- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 87-a71a- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 00-beda- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 0f-8571- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 88-82b0- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 8e-bba2- ClientName: 8e-bba2-f2680e06a5dc
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 46-a15d- ClientName: Gopeed dev
@@ -4125,6 +4139,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 75-ab9a- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 2d-8bfd- ClientName: 2d-8bfd-64a798aaea99
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 11-ab12- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ff-a152- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 8d-b8f3-fa19f95c5b5b ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 6b-9d62- ClientName: 6b-9d62-ee80c9bc156f
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e9-875f- ClientName: Gopeed dev
@@ -4275,6 +4290,7 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 30-a3d7- ClientName: 30-a3d7-53c4805606e5
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 69-a255- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 53-84e8- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 0b-81ea- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 85-88ac- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fc-83c6-7b384c52c7fa ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ef-af98- ClientName: Gopeed dev
@@ -4377,6 +4393,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: b4-9a02- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 76-b74f- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f1-8a07- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 46-8f17-8794cd4e4876 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ac-b446- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ea-a77c- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 4d-921a- ClientName: 4d-921a-7b1988b5dfbe
@@ -6354,8 +6371,8 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 9c-956f- ClientName: 9c-956f-3157d7812dbb
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e3-a151- ClientName: e3-a151-adc3e8f3a446
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 4e-82bd- ClientName: 4e-82bd-a7f8734c6400
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: 78-a101- ClientName: 78-a101-d5e371568825
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: 73-b935- ClientName: 73-b935-0c28e004c01a
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: e3-be25- ClientName: e3-be25-c044051d6512
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: b6-802a- ClientName: b6-802a-6e7aa8ebecf2
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fd-9e0c- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: c8-9f7d- ClientName: c8-9f7d-e013ffe4dfe5
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: fa-ab44- ClientName: fa-ab44-0d0d73a6b772
@@ -6373,14 +6390,12 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f0-9bef- ClientName: f0-9bef-0743c0f1118e
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e6-baad- ClientName: e6-baad-9bcce1c6f5a2
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f8-ab71- ClientName: Gopeed dev
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: c5-a8dc- ClientName: c5-a8dc-284587a22515
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: c3-a368- ClientName: c3-a368-cc12788c7325
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fd-af0f- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-a566- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: d4-abab- ClientName: d4-abab-d1f39a6c5a34
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e4-8a0f- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 71-95d6- ClientName: 71-95d6-2ef35ea76a1a
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: c7-98ee- ClientName: c7-98ee-e942e7dc1e13
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f9-9286- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ee-8ac5- ClientName: ee-8ac5-e394aefddc39
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f0-b303- ClientName: f0-b303-3040c21cd31e
@@ -6393,7 +6408,6 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f3-876e- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f1-97fb- ClientName: f1-97fb-f5e4917d5731
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ec-9957- ClientName: Gopeed dev
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: 5f-a318- ClientName: 5f-a318-70290e04994c
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f5-82db- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 38-9ba5- ClientName: 38-9ba5-68fbe6fdc9d7
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f6-96d0- ClientName: Gopeed dev
@@ -6418,7 +6432,6 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f2-9806- ClientName: f2-9806-cd6a082ac672
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: fe-9a8f- ClientName: fe-9a8f-fa9d544677f4
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ff-8a44- ClientName: Gopeed dev
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: e3-be25- ClientName: e3-be25-c044051d6512
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fb-b95f- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e7-96df- ClientName: e7-96df-c4681942087e
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e1-abfc- ClientName: Gopeed dev
@@ -6695,7 +6708,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fc-848f- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e5-8354- ClientName: e5-8354-5381ae1b5c20
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f4-ac33- ClientName: f4-ac33-77a483345634
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: 6c-93ce- ClientName: 6c-93ce-4e41abafeba0
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: e7-b3df- ClientName: e7-b3df-09751f6fefaf
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 9f-9035- ClientName: 9f-9035-8fad816172be
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-a1c9- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f9-a323- ClientName: f9-a323-cfcd76abf5f7
@@ -6715,6 +6728,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fd-bd24-92be30850b5a ClientName: Gopeed dev (n/a)
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e0-8a33- ClientName: e0-8a33-ba9ea69cb21d
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f5-b91b- ClientName: f5-b91b-844cae25195c
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-b626- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fb-bb71- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: cf-8d93- ClientName: cf-8d93-e6b19c84f509
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e6-9278- ClientName: Gopeed dev
@@ -6737,10 +6751,11 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: d2-b7d2- ClientName: d2-b7d2-2448dbe8fa17
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fc-9c05- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f9-9399- ClientName: f9-9399-36eb9f77dc32
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ed-8d9b- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f2-b0dc- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: b5-abcb- ClientName: b5-abcb-e9875cea429a
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f8-88a0-ca74703259fd ClientName: Gopeed dev (n/a)
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ec-99d8- ClientName: ec-99d8-392c9b23097c
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ed-8d9b- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ff-a14c- ClientName: ff-a14c-d19d22b0c713
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f7-a4e9- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e0-87c9- ClientName: e0-87c9-fc3cc5a586c5
@@ -6814,7 +6829,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e5-a96d- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ea-a4e3- ClientName: ea-a4e3-4dd8482e96ce
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-a3b8- ClientName: Gopeed dev
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f4-a3d5- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fd-b777-13ebce2ba7d5 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f8-abd3- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: da-b2e3- ClientName: da-b2e3-6c8ea66cdaff
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f8-aaec- ClientName: Gopeed dev
