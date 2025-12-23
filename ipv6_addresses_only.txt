@@ -41,3 +41,5 @@ ffff:a996:f303
 ffff:b96b:2d09
 ffff:b96b:2d0f
 ffff:b96b:2d28
+240e:3a2:4a68:4740:98e:3869:d309:961
+240e:3a2:4a68:4740:f3fd:daf4:b7c4:da0f
