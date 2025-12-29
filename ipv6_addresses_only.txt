@@ -47,5 +47,3 @@ ffff:a996:f303
 ffff:b96b:2d09
 ffff:b96b:2d0f
 ffff:b96b:2d28
-2409:8a1b:428:7fa4::2a1
-2409:8a1b:428:7fa4:5d86:7b58:4a61:d41f
